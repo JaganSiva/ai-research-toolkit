@@ -21,3 +21,7 @@ print(f"Keyword Count: {len(keyword_list)}")
 
 print("=" * 50)
 print("Summary generated successfully!")
+
+
+
+print("Thank you for using AI Research Toolkit!")    
